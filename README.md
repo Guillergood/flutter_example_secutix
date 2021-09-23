@@ -1,4 +1,4 @@
-# example
+# SecuTix Sample App
 
 A new Flutter project.
 
@@ -28,3 +28,6 @@ the `lib/src/localization` directory.
 To support additional languages, please visit the tutorial on
 [Internationalizing Flutter
 apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
+
+## Disclaimer
+This repository is for research purposes only. It is not in any way a product of SecuTix or pretends to be it.
